@@ -2,6 +2,6 @@
   "name": "Adafruit_MMA8451",
   "author": "K. Townsend (Adafruit Industries), mumblepins <dansull@gmail.com>",
   "license": "BSD",
-  "version": "0.0.5",
+  "version": "1.0.5",
   "description": "This is an example for the Adafruit MMA8451 Accel breakout board, ported to Spark Core"
 }
